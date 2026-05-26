@@ -1,6 +1,6 @@
 # CohesiveAR
 
-**Cohesive Realization by Extraction Application Mapping** (UCSB CS291A, Winter 2023)
+**Cohesive AR Content via Concurrent Extraction and Mapping of Real-World Textures** (UCSB, Fall 2022)
 
 > 🚨 **Looking for the code?** All project repositories, source code, and media assets can be found in the main organization page.
 > 👉 **[VISIT THE COHESIVEAR PROFILE PAGE](https://github.com/CohesiveAR)** 👈
