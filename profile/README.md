@@ -1,7 +1,7 @@
 ﻿# CohesiveAR
 
 **Cohesive AR Content via Concurrent Extraction and Mapping of Real-World Textures**  
-*Completed at UCSB, Winter 2023.*
+*Completed at UCSB, Fall 2022*
 
 ---
 
